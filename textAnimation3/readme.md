@@ -1,0 +1,1 @@
+in this we have made a text animation in which the animation is occuring from the front of the word and also from the back of the word
