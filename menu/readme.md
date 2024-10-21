@@ -1,0 +1,1 @@
+in this we have made a effect for the simple menu bar which will come form the right side then we click on the icon and it will get removed when we click on the cross in this we have used timeline
