@@ -1,8 +1,20 @@
-gsap.to("#box",{
+var tl = gsap.timeline()
+
+tl.to("#box1",{
     x:1000,
-    rotate:360,
     duration:2,
     delay:1,
-    repeat:-1,
-    yoyo:true
+    rotate:360
+})
+
+tl.to("#box2",{
+    x:1000,
+    duration:2,
+    delay:1,
+    borderRadius:"50%"
+})
+
+tl.to("#box3",{
+    x:1000,
+    duration:2
 })
