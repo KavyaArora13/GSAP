@@ -1,0 +1,1 @@
+In this we have made a scroll trigger effect in which we have made 3 pages the first page is black , second page is blue and third page is black in the second page we have written experiance and and it will translate while we do scrolling this is a cool effect which we can use anywhere 
