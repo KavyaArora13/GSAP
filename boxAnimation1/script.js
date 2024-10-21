@@ -3,4 +3,6 @@ gsap.to("#box",{
     rotate:360,
     duration:2,
     delay:1,
+    repeat:-1,
+    yoyo:true
 })
