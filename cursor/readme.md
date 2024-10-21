@@ -1,0 +1,1 @@
+In this we have made a cursor animation where a circle is following our cursor 
